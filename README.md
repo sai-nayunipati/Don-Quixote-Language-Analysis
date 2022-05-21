@@ -1,5 +1,5 @@
 # Don-Quixote-Language-Analysis
 
-For my final project in my _AP Spanish Language and Culture_ class I chose to research how elements of Old Castilian appear in Don Quixote. This [web page](https://users.pfw.edu/jehle/courses/s450/vocabcer.htm) provides good examples of what that means.
+For my final project in my _AP Spanish Language and Culture_ class I chose to research how elements of Old Castilian appear in Don Quixote. This [web page](https://users.pfw.edu/jehle/courses/s450/vocabcer.htm) provides good examples of what that includes.
 
 This is a Python and matplotlib based project.
